@@ -1,0 +1,23 @@
+{
+  "appTitle": "ToDo",
+  "addnewtasks": "اضف مهام جديده",
+  "tasktitle": "عنوان المهام",
+  "taskdescrip": "اضف وصف",
+  "english": "انجليزى",
+  "selectdat": "اختار تاريخ",
+  "add": "اضف",
+  "arabic": "عربي",
+  "setting": "الإعدادات",
+  "language": "اللغه",
+  "theming": "الثمه",
+  "light": " فاتح",
+  "dark": " غامق",
+  "addTask": "اضافه المهمه",
+  "editTask": "تعديل المهمه",
+  "toDoList": "قائمه المهام",
+  "saveChanges": "حفظ التغييرات"
+
+
+
+
+}

@@ -1,0 +1,20 @@
+{
+  "appTitle": "ToDo",
+  "addnewtasks": "Add new tasks",
+  "tasktitle": "Task title",
+  "taskdescrip": "Add description",
+  "selectdat": "Select date",
+  "add": "Add",
+  "arabic": "Arabic",
+  "english": "English",
+  "setting": "Setting",
+  "language": "Language",
+  "theming": "Theme",
+  "light": "Light",
+  "dark": " Dark",
+  "addTask": "Add Task",
+  "editTask": "Edit Task",
+  "toDoList": "To Do List",
+  "saveChanges": "Save Changes"
+
+}
